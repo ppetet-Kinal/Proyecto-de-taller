@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+
+
+header{
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:black;
+    color: white;
+}
+
+
+h1#nombre{
+  text-align: center;
+  font-size: 40px;
+}
+
+h2#apellidos{
+    text-align: center;
+    font-size: 40px;
+}
+
+h3#email{
+    font-size: 30px;
+    text-align: center;
+}
+
+img{
+    font-size: center;
+    padding-left: 425px;
+}
+
+a{
+    font-size: 25px;
+    color: white;
+}

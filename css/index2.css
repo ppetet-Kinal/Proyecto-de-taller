@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;   
+}
+
+head,body{
+    background-color: #C2BFBF;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+h1#titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5cm;
+    text-align: center;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
+h2#Texto{
+    color: rgba(0, 0, 0, 0.959);
+    text-align: center;
+}
+
+img{
+    margin: 100px;
+    padding: 0px;
+    font-size: center;
+    width: 1100px;
+    padding-left: 175px;
+    
+}
+
+footer#ultimo{
+    background-color: white;
+    font-size: 0px;
+    width: 0px;
+}
+
+a{
+    font-size: 35px;
+    color: white;
+}
+
+a#Desarollador{
+    text-align: right;
+    padding-left: 1155px;
+}

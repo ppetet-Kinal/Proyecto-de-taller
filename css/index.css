@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: helvetica Neue;
+    font-weight: lighter;
+}
+
+html,body{
+    background-color: gray;
+}
+
+
+section#formulario{
+    position: absolute;
+    top: -20px;
+    left: -200px;
+    margin-left: 1200px;
+    margin-top: 250px;
+    width: 600px;
+    min-height:50px;
+    background-color: white;
+    overflow: hidden;
+    border-radius: 5px;
+
+}
+
+p#titulo{
+   font-size: 1.5cm;
+   text-align: center;
+   margin-top: 20px;
+}
+
+input[type="text"], input[type="password"], input[type="email"]{
+    widows: 306px;
+    height: 35px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 1.1cm;
+    outline: 0px;
+    background-color: #dcdcdc;
+    border-radius: 5px;
+}
+
+input[type="submit"]{
+    margin: 20px;
+    margin-bottom: 20px;
+    width: 350px;
+    height: 50px;
+    outline: none;
+    background-color: gray;
+    color: black;
+    font-size: 1.2cm;
+    border-radius: 5px;
+}
+
+img{
+    margin: 100px;
+    padding: 25px;
+    font-size: center;
+    width: 800px;
+    padding-left: 25px;
+
+}
+
+footer{
+    font-size: 100px;
+    top: 50px;
+    margin-left: 0px;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:black;
+    color: white;
+}
+
+a{
+    color: white;
+}
